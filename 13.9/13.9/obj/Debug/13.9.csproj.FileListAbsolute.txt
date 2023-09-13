@@ -1,0 +1,10 @@
+G:\PRG\13.9\13.9\bin\Debug\13.9.exe.config
+G:\PRG\13.9\13.9\bin\Debug\13.9.exe
+G:\PRG\13.9\13.9\bin\Debug\13.9.pdb
+G:\PRG\13.9\13.9\obj\Debug\13.9.csprojAssemblyReference.cache
+G:\PRG\13.9\13.9\obj\Debug\_13._9.Form1.resources
+G:\PRG\13.9\13.9\obj\Debug\_13._9.Properties.Resources.resources
+G:\PRG\13.9\13.9\obj\Debug\13.9.csproj.GenerateResource.cache
+G:\PRG\13.9\13.9\obj\Debug\13.9.csproj.CoreCompileInputs.cache
+G:\PRG\13.9\13.9\obj\Debug\13.9.exe
+G:\PRG\13.9\13.9\obj\Debug\13.9.pdb
