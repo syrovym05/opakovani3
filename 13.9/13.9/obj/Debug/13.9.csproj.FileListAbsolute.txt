@@ -8,3 +8,14 @@ G:\PRG\13.9\13.9\obj\Debug\13.9.csproj.GenerateResource.cache
 G:\PRG\13.9\13.9\obj\Debug\13.9.csproj.CoreCompileInputs.cache
 G:\PRG\13.9\13.9\obj\Debug\13.9.exe
 G:\PRG\13.9\13.9\obj\Debug\13.9.pdb
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\bin\Debug\13.9.exe.config
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\bin\Debug\13.9.exe
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\bin\Debug\13.9.pdb
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\_13._9.Form1.resources
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\_13._9.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.exe
+C:\Users\marsy\Source\Repos\opakovani3\13.9\13.9\obj\Debug\13.9.pdb
