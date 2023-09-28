@@ -61,7 +61,7 @@ namespace _13._9
 
         int PocetMesicu()
         {
-            return ((DateTime.Now - datumNastupu).Days);
+            return ((DateTime.Now - datumNastupu).Days)/30;
         }
         int Celkem()
         {
